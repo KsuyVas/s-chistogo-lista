@@ -1,12 +1,14 @@
+/*
 * {
     box-sizing: border-box;
 }
+*/
 
 body {
     margin: 0;
-    background-color: green;
     font-family: "Inter", sans-serif;
     font-weight: 400;
+    background-color: #1e1e1e;
 }
 
 h1,
@@ -24,6 +26,17 @@ blockquote {
     margin: 0;
     padding: 0;
 }
+
+
+.content-section {
+    box-sizing: border-box;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 
 header {
     display: flex;
@@ -70,15 +83,7 @@ div {
 
 }
 
-.content-section {
-    box-sizing: border-box;
-    width: 360px;
 
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
 .content-section_theme_dark {
     background-color: #131313;
