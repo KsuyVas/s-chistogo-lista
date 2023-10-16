@@ -116,7 +116,7 @@ blockquote {
 
 .cover-title {
   color: #FFF;
-  font-family: EB Garamond, Georgia, serif;
+  font-family: "EB Garamond", Georgia, serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 400;
@@ -154,7 +154,7 @@ blockquote {
 }
 
 .content-section_subtitle {
-  font-family: EB Garamond, Georgia, serif;
+  font-family: "EB Garamond", Georgia, serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -256,7 +256,7 @@ blockquote {
 }
 
 .card__title {
-  font-family: EB Garamond, Georgia, serif;
+  font-family: "EB Garamond", Georgia, serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
